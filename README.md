@@ -2,9 +2,10 @@
 
 ## Installation
 *  Cisco Packet Tracer Download and Installation Instructions.
-*  [https://skillsforall.com/skillsforall/files/Cisco_Packet_Tracer_Download_and_Installation_Instructions.pdf].
+       [https://skillsforall.com/skillsforall/files/Cisco_Packet_Tracer_Download_and_Installation_Instructions.pdf].
 
-*  Official Cisco link [https://skillsforall.com/resources/lab-downloads]
+*  Official Cisco link
+       [https://skillsforall.com/resources/lab-downloads]
 
   * Packet Tracer 8.2.2 MacOS 64bit.
        [https://skillsforall.com/resources/lab-downloads?courseLang=en-US]
