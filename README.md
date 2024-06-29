@@ -6,11 +6,13 @@
 
 *  Official Cisco link [https://skillsforall.com/resources/lab-downloads]
 
-      Packet Tracer 8.2.2 MacOS 64bit.
+  * Packet Tracer 8.2.2 MacOS 64bit.
        [https://skillsforall.com/resources/lab-downloads?courseLang=en-US]
-      Packet Tracer 8.2.2 Ubuntu 64bit.
+
+  * Packet Tracer 8.2.2 Ubuntu 64bit.
        [https://skillsforall.com/resources/lab-downloads?courseLang=en-US]
-      Packet Tracer 8.2.2 Windows 64bitUbuntu 22.04.
+
+  * Packet Tracer 8.2.2 Windows 64bitUbuntu 22.04.
        [https://skillsforall.com/resources/lab-downloads?courseLang=en-US]
 
 ```
